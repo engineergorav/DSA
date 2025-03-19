@@ -6,7 +6,7 @@ Welcome to my DSA journey! This repo contains solutions to Striver's A2Z DSA she
 - Push 1-3 solutions daily to build my portfolio for internships.
 
 ## Progress
-- **Arrays**: Two Sum, Swap Alternate
+- **Arrays**: Swap Alternate, Reverse Array
 - **learned about STL (Standard Template Library)**
 
 ## How to Navigate
