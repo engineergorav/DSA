@@ -39,12 +39,12 @@ int main()
     cout << "Enter the position m: ";
     cin >> m;
 
-    if (m< 0 || m >= n - 1) {
+    if (m < 0 || m >= n - 1) {
         cout << "Invalid position m. It should be in the range [0, " << n - 2 << "]." << endl;
         return 1;
     }
 
-    // Calling function to reverse array after M
+    // Calling function to reverse array after m
     reverseArray(arr,m);
     return 0;
 
